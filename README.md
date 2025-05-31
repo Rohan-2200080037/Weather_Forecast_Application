@@ -4,7 +4,7 @@ A responsive and modern weather forecasting web application built using **React*
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🌍 Search weather by city name
 - 📍 Get weather based on user’s geolocation
@@ -38,20 +38,19 @@ A responsive and modern weather forecasting web application built using **React*
 weather-forecast-app/
 ├── public/
 ├── src/
-│ ├── api/ # API functions
-│ ├── assets/ # Static assets and icons
-│ ├── components/ # UI components
-│ ├── context/ # Global state context
-│ ├── hooks/ # Custom hooks (e.g. useWindowSize)
-│ ├── App.jsx # Main app
-│ ├── index.css
-│ └── main.jsx
-├── .env # API keys
-├── vite.config.js # Vite configuration
+│   ├── api/           # API functions
+│   ├── assets/        # Static assets and icons
+│   ├── components/    # UI components
+│   ├── context/       # Global state context
+│   ├── hooks/         # Custom hooks (e.g. useWindowSize)
+│   ├── App.jsx        # Main app
+│   ├── index.css
+│   └── main.jsx
+├── .env               # API keys
+├── vite.config.js     # Vite configuration
 ├── tailwind.config.js # Tailwind customization
-├── vercel.json # (Optional) Vercel configuration
+├── vercel.json        # (Optional) Vercel configuration
 └── README.md
-
 
 ---
 
